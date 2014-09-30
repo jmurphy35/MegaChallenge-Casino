@@ -1,0 +1,12 @@
+c:\users\john\documents\visual studio 2013\Projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll.config
+c:\users\john\documents\visual studio 2013\Projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll
+c:\users\john\documents\visual studio 2013\Projects\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.pdb
+c:\users\john\documents\visual studio 2013\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
+c:\users\john\documents\visual studio 2013\Projects\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MegaChallenge-Casino\MegaChallengeCasino\bin\MegaChallengeCasino.dll.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\MegaChallenge-Casino\MegaChallengeCasino\bin\MegaChallengeCasino.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MegaChallenge-Casino\MegaChallengeCasino\bin\MegaChallengeCasino.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MegaChallenge-Casino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\MegaChallenge-Casino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MegaChallenge-Casino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb
